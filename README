@@ -14,3 +14,20 @@ completeness, and suitability, or as to any result arising from its use.
 
 The Dorer Community Service Foundation Inc holds the copyright to this work and 
 any commercial use is prohibited. 
+
+This R software produces synthetic tract and blockgroup level data starting with American Community Survey (ACS)
+PUMS (Public Use Microdata) files for a PUMA (Public Use Microdata Area) together with a statistical model.
+This technique is called "Small Area Estimation."
+
+The PUMA level model is adjusted using marginal tables derived from ACS detailed tract and blockgroup tables.
+The software uses the Census API to download data.  The PUMA level PUMS data can also be merged with the Supplemental
+Poverty Measure SAS data file so that variables from that data can be used.
+
+The software uses the Iterative Proportional Fitting (IPF) algorithim for computation.  C source code is provided that
+reproduces the Ipf function in the R package "mipfp."
+
+https://www.census.gov/programs-surveys/acs/data.html
+https://www.census.gov/topics/income-poverty/supplemental-poverty-measure/data/datasets.html
+
+https://cran.r-project.org/web/packages/mipfp/mipfp.pdf
+https://www.jstatsoft.org/article/view/v086c02
