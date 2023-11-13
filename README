@@ -1,2 +1,171 @@
 
+   #########################################################################
+   #                                                                       #
+   #                                                                       #
+   #    WELCOME TO THE POVERTY ASSESSMENT TOOLKIT (PAT) GITHUB README      #
+   #                                                                       #
+   #                 SITE UNDER CONSTRUCTION STAND BY !                    #
+   #                                                                       #
+   #          WATCH  DORERFOUNDATION.ORG/SOFTWARE/  FOR UPDATES            #
+   #                                                                       #
+   #                 WOMEN AND MEN WORKING IN TREES !                      #
+   #                                                                       #
+   #                                                                       #
+   #         I AM PUTTING THE SOFTWARE TOGETHER AS AN R PACKAGE            #
+   #                                                                       #
+   #           THE PACKAGE IS BEING DEVELOPED ON UBUNTU LINUX              #
+   #                                                                       #
+   #      ONCE THINGS ARE WORKING I WILL PORT THE PACKAGE TO WINDOWS       #
+   #                                                                       #
+   #                                                                       #
+   #         THE BASIC STEPS ARE IMPROVING THE USER INTERFACE              #
+   #                                                                       #
+   #            AND PROVIDING DOCUMENTION  (WRITING .Rd FILES)             #
+   #                                                                       #
+   #               MESSAGES TO info@dorerfoundation.org                    #
+   #                                                                       #
+   #  SEND ME YOUR EMAIL AND I WILL PUT YOU ON THE EMAIL LIST FOR UPDATES  #
+   #                                                                       #
+   #                                                                       #
+   #          TO USE THIS PACKAGE YOU NEED A CENSUS KEY                    #
+   #                                                                       #
+   #                      APPLY FOR A KEY  AT                              #
+   #                                                                       #
+   #            https://api.census.gov/data/key_signup.html                #
+   #                                                                       #
+   #########################################################################
+
+   #########################################################################
+   #                                                                       #
+   #  v1.1    4 Nov 2023 12:32                                             #
+   #                                                                       #
+   #                    COPYRIGHT 2023 BY THE                              #
+   #                                                                       #
+   #             DORER COMMUNITY SERVICE FOUNDATION Inc                    #
+   #                                                                       #
+   #                    dorerfoundation.org                                #
+   #                                                                       #
+   #                info@dorerfoundation.org                               #
+   #                                                                       #
+   #                     Principal office:                                 #
+   #                                                                       #
+   #                      26 Beals Street                                  #
+   #                   Brookline MA 02446  USA                             #
+   #                                                                       #
+   #             A Massachusetts Nonprofit Corporation                     #
+   #           Incorporated 2021 under (MGL chapter 180)                   #
+   #                                                                       #
+   #            An Internal Revenue Code Section 501(c)(3)                 #
+   #                Private Operating Foundation                           #
+   #               under IRC Section 4942(j)(3)                            #
+   #                                                                       #
+   #                                                                       #
+   #       LICENSE: Gnu Public License v3.0 (GPLv3)                        #
+   #                                                                       #
+   #  https://www.gnu.org/licenses/gpl-3.0.en.html#license-text            #
+   #                                                                       #
+   #   With the additional restriction that commercial use is              #
+   #   prohibited  unless a written licensing agreement is executed        #
+   #  between the user and the Dorer Community Service Foundation Inc      #
+   #                                                                       #
+   #                      ADDITIONAL DISCLAIMER                            #
+   #                                                                       #
+   # This software is intended for educational, research and reference     #
+   # purposes only.  The user should use their judgment in evaluating any  #
+   # results or conclusions produced using this software.  The user is     #
+   # advised to verify any results produced by this software by reviewing  #
+   # other independent sources of information.                             #
+   #                                                                       #
+   # The Dorer Community Service Foundation Inc makes no warranty that     #
+   # this software is error-free or as to the accuracy, completeness, or   #
+   # suitability for any use, or as to any result arising from its use.    #
+   #                                                                       #
+   #########################################################################
+
+v1.3  13 Nov 2023 14:21 
+   #########################################################################
+   #                                                                       #
+   #                                                                       #
+   #    WELCOME TO THE POVERTY ASSESSMENT TOOLKIT (PAT) GITHUB README      #
+   #                                                                       #
+   #                 SITE UNDER CONSTRUCTION STAND BY !                    #
+   #                                                                       #
+   #          WATCH  DORERFOUNDATION.ORG/SOFTWARE/  FOR UPDATES            #
+   #                                                                       #
+   #                 WOMEN AND MEN WORKING IN TREES !                      #
+   #                                                                       #
+   #                                                                       #
+   #         I AM PUTTING THE SOFTWARE TOGETHER AS AN R PACKAGE            #
+   #                                                                       #
+   #           THE PACKAGE IS BEING DEVELOPED ON UBUNTU LINUX              #
+   #                                                                       #
+   #      ONCE THINGS ARE WORKING I WILL PORT THE PACKAGE TO WINDOWS       #
+   #                                                                       #
+   #                                                                       #
+   #         THE BASIC STEPS ARE IMPROVING THE USER INTERFACE              #
+   #                                                                       #
+   #            AND PROVIDING DOCUMENTION  (WRITING .Rd FILES)             #
+   #                                                                       #
+   #               MESSAGES TO info@dorerfoundation.org                    #
+   #                                                                       #
+   #  SEND ME YOUR EMAIL AND I WILL PUT YOU ON THE EMAIL LIST FOR UPDATES  #
+   #                                                                       #
+   #                                                                       #
+   #          TO USE THIS PACKAGE YOU NEED A CENSUS KEY                    #
+   #                                                                       #
+   #                      APPLY FOR A KEY  AT                              #
+   #                                                                       #
+   #            https://api.census.gov/data/key_signup.html                #
+   #                                                                       #
+   #########################################################################
+
+   #########################################################################
+   #                                                                       #
+   #  v1.1    4 Nov 2023 12:32                                             #
+   #                                                                       #
+   #                    COPYRIGHT 2023 BY THE                              #
+   #                                                                       #
+   #             DORER COMMUNITY SERVICE FOUNDATION Inc                    #
+   #                                                                       #
+   #                    dorerfoundation.org                                #
+   #                                                                       #
+   #                info@dorerfoundation.org                               #
+   #                                                                       #
+   #                     Principal office:                                 #
+   #                                                                       #
+   #                      26 Beals Street                                  #
+   #                   Brookline MA 02446  USA                             #
+   #                                                                       #
+   #             A Massachusetts Nonprofit Corporation                     #
+   #           Incorporated 2021 under (MGL chapter 180)                   #
+   #                                                                       #
+   #            An Internal Revenue Code Section 501(c)(3)                 #
+   #                Private Operating Foundation                           #
+   #               under IRC Section 4942(j)(3)                            #
+   #                                                                       #
+   #                                                                       #
+   #       LICENSE: Gnu Public License v3.0 (GPLv3)                        #
+   #                                                                       #
+   #  https://www.gnu.org/licenses/gpl-3.0.en.html#license-text            #
+   #                                                                       #
+   #   With the additional restriction that commercial use is              #
+   #   prohibited  unless a written licensing agreement is executed        #
+   #  between the user and the Dorer Community Service Foundation Inc      #
+   #                                                                       #
+   #                      ADDITIONAL DISCLAIMER                            #
+   #                                                                       #
+   # This software is intended for educational, research and reference     #
+   # purposes only.  The user should use their judgment in evaluating any  #
+   # results or conclusions produced using this software.  The user is     #
+   # advised to verify any results produced by this software by reviewing  #
+   # other independent sources of information.                             #
+   #                                                                       #
+   # The Dorer Community Service Foundation Inc makes no warranty that     #
+   # this software is error-free or as to the accuracy, completeness, or   #
+   # suitability for any use, or as to any result arising from its use.    #
+   #                                                                       #
+   #########################################################################
+
+v1.5  13 Nov 2023 14:34 
+
 
