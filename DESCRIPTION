@@ -6,7 +6,7 @@ Author: David Dorer <info@dorerfoundation.org>
 Maintainer: David Dorer <info@dorerfoundation.org>
 Depends: R (>= 3.5.0),censusapi,survey,sas7bdat,jsonlite
 Description: Creates synthetic data from American Community Survey PUMS and detail tables.
-License: GPLv3
+License: Attribution-NonCommercial-ShareAlike 4.0 International License
 Colate: 'ipf3.R' 'pat_base2.R' 'pat_batch2.R' 'pat_batch_multi.R'
   'pat_census.R' 'pat_copyright.R' 'pat_extra.R' 'pat_graph.R'
   'pat_ipf.R' 'pat_marginal_tables.R' 'pat_misc.R' 'pat_synth2.R'
