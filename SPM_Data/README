@@ -11,7 +11,7 @@ post on GitHub so I have posted them here:
 https://dorerfoundation.org/software/
 
 The R functions in the PAT package merge these files with the "standard"
-PUMS data downloaded via the API that is used in the PAT package.
+PUMS data downloaded via the API which is used in the PAT package.
 There is a function that takes the geography, state, and PUMA FIPS along with a
 list (character vector) of variable names. The downloaded data is placed
 in a data.frame to be further processed by the Small Area Estimation (SAE)
