@@ -3,7 +3,7 @@ Supplemental Poverty Measure files :
 For R users who are not experienced with using SAS binary datasets,
 I have converted the Census files on this download page
 
-https://www.census.gov/data/datasets/time-series/demo/supplemental-poverty-measure/acs-research-files.html
+https://www.census.gov/topics/income-poverty/supplemental-poverty-measure/data/datasets.html
 
 to the native R data format  .RData.  This files are too large to
 post on GitHub so I have posted them here:
