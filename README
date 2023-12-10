@@ -4,29 +4,22 @@
    #                                                                       #
    #    WELCOME TO THE POVERTY ASSESSMENT TOOLKIT (PAT) GITHUB README      #
    #                                                                       #
-   #                 SITE UNDER CONSTRUCTION STAND BY !                    #
+   #                                                                       #
+   #         I HAVE POSTED A WINDOWS INSTALLER PAT_0.5.zip                 #
+   #                                                                       #
+   #             Review the GettingStarted vignette                        #
+   #          require(PAT)                                                 #
+   #          vignette("GettingStarted")                                   #
    #                                                                       #
    #          WATCH  DORERFOUNDATION.ORG/SOFTWARE/  FOR UPDATES            #
    #                                                                       #
-   #                 WOMEN AND MEN WORKING IN TREES !                      #
    #                                                                       #
-   #                                                                       #
-   #         I AM PUTTING THE SOFTWARE TOGETHER AS AN R PACKAGE            #
-   #                                                                       #
-   #           THE PACKAGE IS BEING DEVELOPED ON UBUNTU LINUX              #
-   #                                                                       #
-   #      ONCE THINGS ARE WORKING I WILL PORT THE PACKAGE TO WINDOWS       #
-   #                                                                       #
-   #                                                                       #
-   #         THE BASIC STEPS ARE IMPROVING THE USER INTERFACE              #
-   #                                                                       #
-   #            AND PROVIDING DOCUMENTION  (WRITING .Rd FILES)             #
    #                                                                       #
    #               MESSAGES TO info@dorerfoundation.org                    #
    #                                                                       #
-   #  SEND ME YOUR EMAIL AND I WILL PUT YOU ON THE EMAIL LIST FOR UPDATES  #
+   #  SEND AN EMAIL AND I WILL PUT YOU ON THE EMAIL LIST FOR UPDATES       #
    #                                                                       #
    #                                                                       #
    #########################################################################
 
-v1.0  16 Nov 2023 22:40 
+v2.0  9 December 2023
