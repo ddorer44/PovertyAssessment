@@ -1,13 +1,16 @@
 Package: PAT
-Version: 0.1
+Version: 0.5
 Date: 2023-11-04
 Title: Poverty Assessment Tooklit
 Author: David Dorer <info@dorerfoundation.org>
 Maintainer: David Dorer <info@dorerfoundation.org>
-Depends: R (>= 3.5.0),censusapi,survey,sas7bdat,jsonlite
+Suggests: knitr, rmarkdown, sas7bdat
+VignetteBuilder: knitr
+Depends: R (>= 3.5.0),censusapi,survey,jsonlite,zip
 Description: Creates synthetic data from American Community Survey PUMS and detail tables.
-License: Attribution-NonCommercial-ShareAlike 4.0 International License
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 Colate: 'ipf3.R' 'pat_base2.R' 'pat_batch2.R' 'pat_batch_multi.R'
+  'pat_pums.data.R'
   'pat_census.R' 'pat_copyright.R' 'pat_extra.R' 'pat_graph.R'
   'pat_ipf.R' 'pat_marginal_tables.R' 'pat_misc.R' 'pat_synth2.R'
   'pat_synth_model.R' 'pat_tables.R' 'pat_util.R' 'pat_start.R'
