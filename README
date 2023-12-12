@@ -7,7 +7,12 @@
    #                                                                       #
    #         I HAVE POSTED A WINDOWS INSTALLER PAT_0.5.zip                 #
    #                                                                       #
-   #             Review the GettingStarted vignette                        #
+   #      Review the following vignettes (posted in this folder)           #
+   #         GettingStarted.pdf                                            #
+   #         CreatingModels.pdf                                            #
+   #         SynthesizeData.pdf                                            #
+   #                                                                       #
+   #          From inside R:                                               #
    #          require(PAT)                                                 #
    #          vignette("GettingStarted")                                   #
    #                                                                       #
@@ -25,4 +30,4 @@
    #                                                                       #
    #########################################################################
 
-v2.0  9 December 2023
+v3.0  12 December 2023
