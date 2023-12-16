@@ -11,6 +11,8 @@
    #         GettingStarted.pdf                                            #
    #         CreatingModels.pdf                                            #
    #         SynthesizeData.pdf                                            #
+   #         SmallAreaEstimation.pdf                                       #
+   #         StepByStep.pdf                                                #
    #                                                                       #
    #          From inside R:                                               #
    #          require(PAT)                                                 #
