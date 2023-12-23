@@ -18,6 +18,8 @@
    #          require(PAT)                                                 #
    #          vignette("GettingStarted")                                   #
    #                                                                       #
+   #          help(package="PAT")                                          #
+   #                                                                       #
    #          WATCH  DORERFOUNDATION.ORG/SOFTWARE/  FOR UPDATES            #
    #                                                                       #
    #            THE DOCUMENTATION IS A WORK IN PROGRESS                    #
@@ -32,4 +34,4 @@
    #                                                                       #
    #########################################################################
 
-v3.2  18 December 2023
+v3.3  23 December 2023
