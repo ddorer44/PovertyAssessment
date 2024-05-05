@@ -28,6 +28,8 @@
    #          help(package="PAT")                                          #
    #                                                                       #
    #          WATCH  DORERFOUNDATION.ORG/SOFTWARE/  FOR UPDATES            #
+   #   The replicate weights portion of the package seems to be            #
+   #    working pretty well.  Structural zeros have been added.            #
    #                                                                       #
    #            THE DOCUMENTATION IS A WORK IN PROGRESS                    #
    #                                                                       #
@@ -41,4 +43,4 @@
    #                                                                       #
    #########################################################################
 
-v3.5  31 March 2024
+v3.5  5 May 2024
