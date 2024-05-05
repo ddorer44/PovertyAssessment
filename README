@@ -22,6 +22,8 @@
    #         StepByStep.pdf                                                #
    #                                                                       #
    #          From inside R:                                               #
+   #                                                                       #
+   #          install.packages(repos=NULL,pkg="<path_to_zip_file>")        #
    #          require(PAT)                                                 #
    #          vignette("GettingStarted")                                   #
    #                                                                       #
